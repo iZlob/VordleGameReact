@@ -1,0 +1,8 @@
+.FieldCell{
+    border: 3px solid black;
+    border-radius: 10px;
+    width: 6vmin;
+    height: 6vmin;
+    font-size: 5vmin;
+    text-align: center;
+}
